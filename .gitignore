@@ -1,0 +1,11 @@
+
+# Local credentials and generated files
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.vercel/
+node_modules/
